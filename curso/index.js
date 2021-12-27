@@ -34,4 +34,3 @@ module.exports = {
 // 1- grade equal to or higher than gradeApproval && must have less < than maximum absences
 
 // 2- if the student has maximum absences he will have to have 10% > gradeApproval
-

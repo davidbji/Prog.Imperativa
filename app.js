@@ -35,3 +35,5 @@ curso.curso.novoEstudante(aluno2);
 curso.curso.novoEstudante(aluno3);
 
 console.log(curso.curso.listaDaVerdade());
+
+// Mandatory programming checkpoint 3
