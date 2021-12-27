@@ -31,7 +31,7 @@ module.exports = {
     }
 }
 
-// 1- nota igual ou superior a notaAprovacao && temque ter menos < que faltasMaximas
+// 1- grade equal to or higher than gradeApproval && must have less < than maximum absences
 
-// 2- se o aluno tiver faltasMaximas ele terá que ter 10% > notaAprovacao
+// 2- if the student has maximum absences he will have to have 10% > gradeApproval
 
